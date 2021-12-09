@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/metin/catkin_ws/devel/setup.sh
